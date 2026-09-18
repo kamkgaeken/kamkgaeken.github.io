@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "8de0c9a037948a4e95d85429",
+  "owner": "kamkgaeken",
+  "repo": "kamkgaeken.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "255a2828e4ac2a2640e02b23",
+      "a": "泡芙云",
+      "b": "加速器官网",
+      "entity": "泡芙云",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "097f06b7dbb8fad852ce4189615e5a674b6d95cae5d966710b4e0e76c116b5c2",
+      "content": {
+        "primary_entity": "泡芙云",
+        "keyword1": "泡芙云",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，Windows、macOS、Android、iOS 与路由器各有对应版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选定泡芙云套餐后，按客户端文档完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "开始配置泡芙云",
+          "AI_DESCRIPTION": "，泡芙云提供基础版、旗舰版与团队版三档套餐，分别适配个人轻度使用、多设备流媒体与团队协作场景。基础版适合单人或少量设备日常浏览，旗舰版增加设备数与专线优化，团队版支持更多终端与定制路由，可按需对比订阅周期。",
+          "AI_FEATURES_INTRO": "从套餐档位到设备数量，再到订阅周期，泡芙云按实际使用场景划分。",
+          "AI_FEATURES_TITLE": "泡芙云套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版与团队版对应不同设备数与流量上限，单人、家庭与团队各有合适档位。",
+          "AI_FEATURE_TITLE_1": "三档套餐可选",
+          "AI_FEATURE_TEXT_2": "月付与年付两种周期，年付方案降低长期使用成本，适合确定长期需求的用户。",
+          "AI_FEATURE_TITLE_2": "灵活订阅周期",
+          "AI_FEATURE_TEXT_3": "手机、电脑与路由器均可按客户端文档配置，同一账号在多设备间切换使用。",
+          "AI_FEATURE_TITLE_3": "多设备适配",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三个步骤即可开始使用泡芙云。",
+          "AI_GUIDE_TITLE": "泡芙云使用步骤",
+          "AI_HERO_INTRO": "泡芙云提供基础版、旗舰版与团队版三档套餐，覆盖从个人到团队的不同设备数量与流量需求。选定档位后，按对应客户端文档完成订阅配置，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "三档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "基础版适合单人轻量使用",
+          "AI_HIGHLIGHT_2": "旗舰版支持更多设备与流媒体",
+          "AI_HIGHLIGHT_3": "团队版面向多终端协作",
+          "AI_PLANS_INTRO": "根据设备数量和日常流量选择档位，再确定月付或年付周期。",
+          "AI_PLANS_TITLE": "泡芙云套餐对比",
+          "AI_STEP_TEXT_1": "对比基础版、旗舰版与团队版的设备数与流量，结合日常使用场景选定一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认所用设备是否在套餐支持范围内，并查看对应客户端的配置要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成配置后即可在设备上使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "泡芙云加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "泡芙云的基础版适合哪些用户？",
+          "AI_FAQ_ANSWER_1": "基础版流量与设备数量较为有限，适合以浏览网页、查资料和轻量视频为主的个人用户。如果有流媒体或游戏需求，可考虑更高档位。",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版在流量和同时在线设备数上进一步提升，并提供全节点原生流媒体解锁和专线游戏加速优化，适合对线路质量和视频体验有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版可以支持多少设备协作？",
+          "AI_FAQ_ANSWER_3": "团队版可支持较多设备同时在线，并提供专属高带宽节点与企业定制路由，适合小型团队或多设备家庭集中使用。",
+          "AI_FAQ_QUESTION_4": "年付和月付怎么选？",
+          "AI_FAQ_ANSWER_4": "月付适合先短期体验，年付省去每月续费操作，长期使用更省心。可先按月试用一档套餐，确认线路与设备兼容后再切换为年付。",
+          "AI_FAQ_QUESTION_5": "在哪些设备上可以导入订阅？",
+          "AI_FAQ_ANSWER_5": "Windows、macOS、Android 和 iOS 均有对应客户端可按文档导入订阅，路由器在固件支持的前提下也可配置。建议先确认设备系统版本再选择客户端。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6e4bbbc838f929afe379a88df345420941c5794cf52567f0712a962601de8bc8",
+    "sitemap.xml": "b296618fe521e4c67976387cef0b087ec1826fea27281c5ea8072239a81c4d4a",
+    "robots.txt": "0d57206f4adbbd0315f7097d5af6fb5010193deb263c7f34e393a644f703615a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "959a7b117669e33f662cb2299f9db4fbb6a5545b2be344289ac24fa7367db95f"
+}
